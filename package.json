@@ -1,0 +1,19 @@
+{
+  "name": "test-module",
+  "version": "0.0.0",
+  "description": "test NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "***"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Ivan-Belenkov/test-module.git"
+  },
+  "author": "Ivan Belenkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivan-Belenkov/test-module/issues"
+  },
+  "homepage": "https://github.com/Ivan-Belenkov/test-module"
+}
